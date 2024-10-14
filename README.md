@@ -37,7 +37,9 @@ FileNet.draw3D(start_path = "Replace with complete Root Directory Path")
 ```
 ## Demo
 ### 3D Demo :
-![demo_vid](readme_asset/demo_vid.mp4)
+
+https://github.com/user-attachments/assets/ef62fb46-470f-40da-a856-421c416155d6
+
 ### 2D Demo :
 ![demo](readme_asset/demo1.png)
 
