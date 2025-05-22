@@ -1,7 +1,8 @@
 # FileNet
 
-![PyPI](https://img.shields.io/pypi/v/FileNet?label=pypi%20package)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/FileNet)
+[![PyPI](https://img.shields.io/pypi/v/FileNet?label=pypi%20package)](https://pypi.org/project/FileNet/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/FileNet)](https://pypi.org/project/FileNet/)
+
 --
 ![FileNet](readme_asset/logo.png)
 
