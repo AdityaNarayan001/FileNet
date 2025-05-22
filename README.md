@@ -1,4 +1,8 @@
 # FileNet
+
+![PyPI](https://img.shields.io/pypi/v/FileNet?label=pypi%20package)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/FileNet)
+--
 ![FileNet](readme_asset/logo.png)
 
 FileNet is a library to visulaize your directories and files with their hierarchical relation in 2D or 3D.
